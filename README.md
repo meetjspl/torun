@@ -21,16 +21,21 @@ Do zgłoszenia wystarczy temat, opis możesz podać później. Ty decydujesz kie
 
 ## meet.js Toruń #2
 
-🎤 W programie trzy półgodzinne prelekcje: 🎤
-1. TBD
-2. TBD
-3. TBD
+🎤 W programie dwie półgodzinne prelekcje: 🎤
+1. "Visual Regression Testing, czyli porównywanie obrazków" - Adrian Rydzyński
+2. "Higher-Order Lifestyle" - Paweł Maciejewski
 
 ### 🔥 O prezentacjach: 🔥
 
-### 1. TBD
-### 2. TBD
-### 3. TBD
+### 1. Visual Regression Testing, czyli porównywanie obrazków
+Świat nie kończy się na testach jednostkowych. Zwłaszcza, jeśli zadajemy sobie pytanie: "Czy na rozdzielczości X moja zmiana w wariancie Y i Z będzie wyglądać dobrze?". Co jeśli mamy 5 widoków, 10 breakpointów i jeszcze więcej wariantów? Przeanalizujemy jak za pomocą kilkunastu obrazków zaoszczędzić dziesiątki godzin pracy developerów i testerów.
+
+**Adrian Rydzyński** - Frontend developer w Allegro w zespole zajmującym się widokiem listy ofert. Pasjonat wszystkiego co związane z JavaScriptem. Wyznający zasadę: "Masz coś zrobić więcej niż raz? Napisz skrypt w JSie albo sprawdź NPMa, na pewno ktoś już to napisał." Prywatnie wielki fan (i były zawodnik) futbolu amerykańskiego oraz współtwórca quizów z filmów i seriali na platformę Android.
+
+### 2. Higher-Order Lifestyle
+Na tej prezentacji postaram się pobudzić waszą funkcyjną wyobraźnię, opowiem o Higher-order Components, ale i nie tylko. Będzie to alegoryczna opowieść o reużywalności kodu w komponentowym świecie React.js podczas której pokażę jak higher-order "cokolwiek" może zmienić sposób w jaki patrzycie na kod.
+
+**Paweł Maciejewski** - Full-stack Developer z żyłką do Front-endu. Fanboy Node.js, React.js, TDD, gier planszowych i dobrego piwa.
 
 ## Poprzednie spotkania
 Lista poprzednich spotkań dostępna jest [tutaj](previous.md).
