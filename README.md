@@ -5,7 +5,7 @@
 🕕 10 października 2018 (środa) godz. 18:00  
 📍 sala S9, Wydział Matematyki i Informatyki UMK, ul. Chopina 12/18 Toruń
 
-[link do wydarzenia na facebooku](TBD)
+[link do wydarzenia na facebooku](https://www.facebook.com/events/1923206967722499/)
 
 ## Zaproponuj temat!
 Masz pomysł na prelekcję albo warsztaty? 
