@@ -15,14 +15,14 @@ Wstęp na spotkanie jest wolny.
 
 Po spotkaniu zapraszamy na małe after-party. Jest to świetna okazja lepiej się poznać, porozmawiać o prezentacjach lub o swoich projektach. Sponsor spotkania firma Simplito (https://simplito.com) funduje pizzę 🍕, tym bardziej zapraszamy :)
 
-► "glimmer.js internals"
+### glimmer.js internals
 
 Adrian wprowadzi nas w świat glimmer.js i pod pozorem frameworka będzie opowiadał o wirtualnych maszynach i konstruowaniu sztucznego czasu! W prezentacji nie zabraknie ostrych porównań po drodze do Reacta.
 
-Adrian Mróź - Tworzę wizualizacje danych od pięciu lat a programuję od dziesięciu. Obecnie pracuję w Allegro a w wolnej chwili eksperymentuję z funkcyjnymi językami programowania.
+**Adrian Mróź** - Tworzę wizualizacje danych od pięciu lat a programuję od dziesięciu. Obecnie pracuję w Allegro a w wolnej chwili eksperymentuję z funkcyjnymi językami programowania.
 
 
-► "TypeScript. Every rose has its thorns"
+### TypeScript. Every rose has its thorns
 
 W pracy programisty często zdarzają się momenty, w których myślimy "Szkoda, że nie wiedziałem tego wcześniej...".
 
@@ -31,11 +31,11 @@ Dlatego przed wyborem kolejnego języka czy biblioteki warto poszukać odpowiedz
 W mojej prezentacji chciałbym odpowiedzieć na te pytania. Jeśli chcesz sprawdzić co, jako programista TypeScript, chciałbym wiedzieć dwa lata temu oraz jak oceniam ten język z perspektywy czasu - zapraszam!
 
 
-► "Become reactive with RxJS"
+### Become reactive with RxJS
 
 Podczas mojej prezentacji poznacie bibliotekę RxJS pozwalającą na tworzenie reaktywnego kodu. Poznasz podstawowe elementy biblioteki oraz nauczysz się jak myśleć w reaktywny sposób w świecie gdzie wszystko jest strumieniem danych :)
 
-Wojciech Trawiński - Jestem Frontend developerem pracującym na codzień w firmie 7N, dla którego Angular, RxJS oraz TypeScript to absolutny must-have we frontendowym świecie.
+**Wojciech Trawiński** - Jestem Frontend developerem pracującym na codzień w firmie 7N, dla którego Angular, RxJS oraz TypeScript to absolutny must-have we frontendowym świecie.
 
 ## Poprzednie spotkania
 Lista poprzednich spotkań dostępna jest [tutaj](previous.md).
