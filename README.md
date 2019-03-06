@@ -1,38 +1,41 @@
 # Meet.js Toruń
 
 ## Kiedy następny event?
-**meet.js Toruń #3**  
-🕕 11 grudnia 2018, 18:00, WMiI UMK
+**meet.js Toruń #4**
+🕕 14 marca 2019, 18:00, WMiI UMK
 
-Zapraszamy na trzecie spotkanie meet.js Toruń, które odbędzie się 🕕 11 grudnia (wtorek) o godzinie 18:00 🕕 w sali S9 na Wydziale Matematyki i Informatyki UMK przy ul. Chopina 12/18.
+Zapraszamy na czwarte spotkanie meet.js Toruń, które odbędzie się już 14 marca (czwartek) o godzinie 18:00 🕕 w sali S9 na Wydziale Matematyki i Informatyki UMK przy ul. Chopina 12/18.
 
 Wstęp na spotkanie jest wolny.
 
-🎤 W programie dwie prelekcje (obie po polsku): 🎤
-1. "What I learned creating my first Open Source library" - Maciej Myśliński (30 minut)
-2. "Pan tu nie stał, czyli problemy asynchroniczności w JavaScript" - Tomasz Bielawa (wyjątkowo dłużej - 45 minut)
+🎤 W programie aż trzy półgodzinne prelekcje (wszystkie po polsku): 🎤
+1. "glimmer.js internals" - Adrian Mróź
+2. "TypeScript. Every rose has its thorns" - Kamil Zagrabski
+3. "Become reactive with RxJS" - Wojciech Trawiński
 
-Po spotkaniu wraz ze sponsorem firmą Simplito (https://simplito.com) zapraszamy na małe after-party. Wkrótce więcej szczegółów.
+Po spotkaniu zapraszamy na małe after-party. Jest to świetna okazja lepiej się poznać, porozmawiać o prezentacjach lub o swoich projektach. Sponsor spotkania firma Simplito (https://simplito.com) funduje pizzę 🍕, tym bardziej zapraszamy :)
 
-► "What I learned creating my first Open Source library"
+► "glimmer.js internals"
 
-Zawsze marzyłem o stworzeniu swojej własnej biblioteki Open-Source. Nigdy nie brakowało mi też wymówek: muszę zdobyć więcej doświadczenia, jest tyle innych pilnych obowiązków, są lepsi ode mnie. Poza tym wydawało się, że każdy istotny problem został już rozwiązany. Założę się, że jesteś choć trochę podobny do mnie.
-Z mojej prezentacji dowiesz się:
-- jak zauważyłem problem, który nie został jeszcze rozwiązany,
-- jak wypracowałem rozwiązanie,
-- czego nauczyłem się po drodze.
-No i będziesz o krok bliżej stworzenia swojej własnej biblioteki Open-Source!
+Adrian wprowadzi nas w świat glimmer.js i pod pozorem frameworka będzie opowiadał o wirtualnych maszynach i konstruowaniu sztucznego czasu! W prezentacji nie zabraknie ostrych porównań po drodze do Reacta.
 
-Maciej Myśliński - pracuje w Netguru jako Senior Frontend Developer i Team Leader. Jego misją w 2018 roku jest wystąpić na każdym frontendowym meetupie w Polsce. W wieku 19 lat sprzedał swój motocykl, kupił pierwszy komputer i zaczął uczyć się programowania. Codziennie rano wstaje po to, żeby rozwijać siebie i pomagać innym być lepszymi programistami.
+Adrian Mróź - Tworzę wizualizacje danych od pięciu lat a programuję od dziesięciu. Obecnie pracuję w Allegro a w wolnej chwili eksperymentuję z funkcyjnymi językami programowania.
 
 
-► "Pan tu nie stał", czyli problemy asynchroniczności w JavaScript
+► "TypeScript. Every rose has its thorns"
 
-Każdy programista JavaScript mając do czynienia z asynchronicznością w aplikacjach 
-prędzej czy później będzie musiał zmierzyć się ze zjawiskiem zwanym "callback hell".
-Przyjrzymy się więc, co ma do zaoferowania w tej kwestii ECMAScript od wersji 6.
+W pracy programisty często zdarzają się momenty, w których myślimy "Szkoda, że nie wiedziałem tego wcześniej...".
 
-Tomasz Bielawa - Frontend developer, zwolennik Drogi Czystego Kodu, po godzinach fan wszystkiego co można przeczytać.
+Dlatego przed wyborem kolejnego języka czy biblioteki warto poszukać odpowiedzi na pytanie: jak dana technologia sprawdza się w boju? Czy rzeczywiście warto się z nią zapoznać? Co mówią na jej temat użytkownicy? Z jakimi problemami się borykają?
+
+W mojej prezentacji chciałbym odpowiedzieć na te pytania. Jeśli chcesz sprawdzić co, jako programista TypeScript, chciałbym wiedzieć dwa lata temu oraz jak oceniam ten język z perspektywy czasu - zapraszam!
+
+
+► "Become reactive with RxJS"
+
+Podczas mojej prezentacji poznacie bibliotekę RxJS pozwalającą na tworzenie reaktywnego kodu. Poznasz podstawowe elementy biblioteki oraz nauczysz się jak myśleć w reaktywny sposób w świecie gdzie wszystko jest strumieniem danych :)
+
+Wojciech Trawiński - Jestem Frontend developerem pracującym na codzień w firmie 7N, dla którego Angular, RxJS oraz TypeScript to absolutny must-have we frontendowym świecie.
 
 ## Poprzednie spotkania
 Lista poprzednich spotkań dostępna jest [tutaj](previous.md).
