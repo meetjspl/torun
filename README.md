@@ -30,6 +30,7 @@ Dlatego przed wyborem kolejnego języka czy biblioteki warto poszukać odpowiedz
 
 W mojej prezentacji chciałbym odpowiedzieć na te pytania. Jeśli chcesz sprawdzić co, jako programista TypeScript, chciałbym wiedzieć dwa lata temu oraz jak oceniam ten język z perspektywy czasu - zapraszam!
 
+**Kamil Zagrabski** - Starszy Programista w eCom.software. Programuje w technologiach frontendowych od 9 lat, od dwóch głównie z użyciem TypeScriptu i Reacta. Zwolennik rozwiązań, które są zrozumiałe i łatwe w utrzymaniu.
 
 ### Become reactive with RxJS
 
